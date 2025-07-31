@@ -73,7 +73,7 @@ launchDetachedTitle = "Lancer le jeu indépendamment du launcher"
 launchDetachedDesc = "Si le jeu n'est pas lancé de façon indépendante, fermer le launcher fermera aussi le jeu."
 tabModsHeaderText = "Paramètres des mods"
 tabModsHeaderDesc = "Activer ou désactiver des mods."
-switchServerButton = "Switch"
+switchServerButton = "Changé"
 requiredMods = "Mods requis"
 optionalMods = "Mods optionnels"
 dropinMods = "Mods suppléants"
@@ -132,7 +132,7 @@ continueButton = "CONTINUER"
 
 [js.discord]
 waiting = "En attente du Client.."
-state = "Serveur: {shortId}"
+state = "Serveur: Café Showdown"
 
 [js.index]
 microsoftLoginTitle = "Connexion via Microsoft"
@@ -212,8 +212,8 @@ checking = "Vérifications des nouvelles"
 
 [js.landing.discord]
 loading = "Chargement du jeu.."
-joining = "On y est presque !"
-joined = "Explorons le monde !"
+joining = "En jeu !"
+joined = "En jeu !"
 
 [js.overlay]
 dismiss = "Fermer"
